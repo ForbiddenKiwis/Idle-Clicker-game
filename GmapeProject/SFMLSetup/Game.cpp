@@ -68,12 +68,6 @@ Game::Game()
     this->dtClock.restart();
 }
 
-//Destructor
-Game::~Game()
-{
-	delete this->window;
-}
-
 //Accesors
 const bool Game::isRunning() const
 {
