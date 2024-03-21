@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFMLSetup.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+C:\Users\reyna\Desktop\Personal Projects\GmapeProject\SFMLSetup\Game.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\reyna\Desktop\Personal Projects\GmapeProject\SFMLSetup\Game.cpp(215,30): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\reyna\Desktop\Personal Projects\GmapeProject\SFMLSetup\Game.cpp(227,29): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  SFMLSetup.vcxproj -> C:\Users\reyna\Desktop\Personal Projects\GmapeProject\x64\Debug\GameRogue.exe
